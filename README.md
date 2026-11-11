@@ -18,3 +18,9 @@
 ## 协作记录
 
 本行由主工作区提交，用于制造 non-fast-forward。
+
+## 实验环境
+
+- 操作系统：Windows 11 25H2
+- Git：2.56.1.windows.1
+- 托管平台：GitHub
